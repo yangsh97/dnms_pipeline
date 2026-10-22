@@ -3,7 +3,7 @@
 ### Set path before run shell ###
 # -----------------------------------------------------------------------------------
 # reference genome
-REF="/home/ubuntu/1.Project/DNMs/02.process.oldgenome/refgenome_3.2.4/Zebrafinch.rename.fa"
+REF=""
 # input variants file
 inputVCF="/home/ubuntu/1.Project/DNMs/02.process.oldgenome/vcf/02_CallVariants/ALLTrios_raw_snps_indels.vcf.gz"
 # output file path and prefix
